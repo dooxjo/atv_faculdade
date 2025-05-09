@@ -1,7 +1,6 @@
 #biblioteca de verificação de senha
 import string 
 import os
-import time
 
 def valida(senha):
 
@@ -43,4 +42,3 @@ def pedir():
             print(resultado)
 
     
-pedir()
